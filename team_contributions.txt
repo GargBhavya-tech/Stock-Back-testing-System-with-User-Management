@@ -1,0 +1,26 @@
+Team Members and Contributions
+------------------------------
+
+1) Bhavya Garg
+#### Core Responsibilities
+- Back testing Engine Development
+- Trading Strategy Implementation
+- Performance Analysis & Metrics
+
+**Files Primarily Worked On:**
+- `backtest.h` - Back testing function declarations
+- `backtest.c` - Complete back testing implementation
+- `structures.h` - Strategy, Portfolio, and Trade structure definitions
+
+2) Atharv Phutela
+#### Core Responsibilities
+- User Authentication System
+- Strategy Management Features
+- Stock Data Generation
+
+**Files Primarily Worked On:**
+- `user_management.h` - User management function declarations
+- `user_management.c` - Complete user management implementation
+- `stock_data.h` - Stock data function declarations
+- `stock_data.c` - Stock data generation and loading
+
